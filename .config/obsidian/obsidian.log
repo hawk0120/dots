@@ -1,0 +1,76 @@
+2026-02-17 20:01:18 Loading main app package /tmp/.mount_ObsidiycvfMX/resources/obsidian.asar
+2026-02-17 20:01:21 Checking for update using Github
+2026-02-17 20:01:25 Success.
+2026-02-17 20:01:25 Latest version is 1.11.7
+2026-02-17 20:01:25 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/obsidian-1.11.7.asar.gz
+2026-02-17 20:01:26 Verifying hash & signature. Size= 8773752
+2026-02-17 20:01:26 Saving file
+2026-02-17 20:01:27 Update complete.
+2026-02-18 14:32:30 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-18 14:32:34 Checking for update using Github
+2026-02-18 14:32:36 Success.
+2026-02-18 14:32:36 Latest version is 1.11.7
+2026-02-18 14:32:36 App is up to date.
+2026-02-18 14:35:53 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-18 14:35:53 Checking for update using Github
+2026-02-18 14:36:06 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-18 14:36:07 Checking for update using Github
+2026-02-18 14:36:07 Success.
+2026-02-18 14:36:07 Latest version is 1.11.7
+2026-02-18 14:36:07 App is up to date.
+2026-02-18 14:41:10 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-18 14:41:11 Checking for update using Github
+2026-02-18 14:41:11 Success.
+2026-02-18 14:41:11 Latest version is 1.11.7
+2026-02-18 14:41:11 App is up to date.
+2026-02-20 15:03:08 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-20 15:03:12 Checking for update using Github
+2026-02-20 15:03:15 Success.
+2026-02-20 15:03:15 Latest version is 1.11.7
+2026-02-20 15:03:15 App is up to date.
+2026-02-25 15:13:33 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-25 15:13:37 Checking for update using Github
+2026-02-25 15:13:39 Success.
+2026-02-25 15:13:39 Latest version is 1.11.7
+2026-02-25 15:13:39 App is up to date.
+2026-02-28 13:34:06 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.11.7.asar
+2026-02-28 13:34:10 Checking for update using Github
+2026-02-28 13:34:13 Success.
+2026-02-28 13:34:13 Latest version is 1.12.4
+2026-02-28 13:34:13 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4.asar.gz
+2026-02-28 13:34:15 Verifying hash & signature. Size= 8322418
+2026-02-28 13:34:15 Saving file
+2026-02-28 13:34:16 Update complete.
+2026-02-28 14:34:09 Checking for update using Github
+2026-02-28 14:34:35 Success.
+2026-02-28 14:34:35 Latest version is 1.12.4
+2026-02-28 14:34:36 An update is already downloaded.
+2026-02-28 15:34:07 Checking for update using Github
+2026-02-28 15:34:08 Success.
+2026-02-28 15:34:08 Latest version is 1.12.4
+2026-02-28 15:34:08 An update is already downloaded.
+2026-02-28 16:34:07 Checking for update using Github
+2026-02-28 16:34:07 Success.
+2026-02-28 16:34:07 Latest version is 1.12.4
+2026-02-28 16:34:07 An update is already downloaded.
+2026-02-28 17:34:07 Checking for update using Github
+2026-02-28 17:34:07 Success.
+2026-02-28 17:34:07 Latest version is 1.12.4
+2026-02-28 17:34:07 An update is already downloaded.
+2026-02-28 18:34:07 Checking for update using Github
+2026-02-28 18:34:07 Success.
+2026-02-28 18:34:07 Latest version is 1.12.4
+2026-02-28 18:34:07 An update is already downloaded.
+2026-03-06 22:08:39 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.12.4.asar
+2026-03-06 22:08:43 Checking for update using Github
+2026-03-06 22:08:50 Success.
+2026-03-06 22:08:50 Latest version is 1.12.4
+2026-03-06 22:08:50 App is up to date.
+2026-04-01 18:25:51 Loading updated app package /home/hawk0120/.config/obsidian/obsidian-1.12.4.asar
+2026-04-01 18:25:54 Checking for update using Github
+2026-04-01 18:25:56 Success.
+2026-04-01 18:25:56 Latest version is 1.12.7
+2026-04-01 18:25:56 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz
+2026-04-01 18:26:01 Verifying hash & signature. Size= 8323080
+2026-04-01 18:26:01 Saving file
+2026-04-01 18:26:03 Update complete.
