@@ -133,3 +133,30 @@ source <(ng completion script)
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+# Dotfiles sync
+sync_dotfiles() {
+    local DOTFILES=~/.dotfiles
+    [ -d "$DOTFILES" ] || return
+    
+    local links=(
+        ".bashrc"
+        ".bash_aliases"
+        ".gitconfig"
+        ".tmux.conf"
+    )
+    
+    for item in "${links[@]}"; do
+        local src="$DOTFILES/$item"
+        local dst="$HOME/$item"
+        if [ -e "$src" ]; then
+            if [ -L "$dst" ] || [ ! -e "$dst" ]; then
+                rm -rf "$dst"
+                ln -s "$src" "$dst"
+                echo "Linked: $dst -> $src"
+            else
+                echo "Skipped (exists): $dst"
+            fi
+        fi
+    done
+}
