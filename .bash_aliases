@@ -84,3 +84,5 @@ alias c='clear'
 
 # Project Specific
 alias tmr='echo "🧠 Building Thomas..." && gradle build -q && echo "🚀 Running..." && java -jar app/build/libs/app.jar'
+
+alias dotfiles='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
