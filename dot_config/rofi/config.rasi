@@ -27,5 +27,5 @@ configuration{
     kb-mode-complete: "Control+o";
 }
 
-@theme "./themes/rofi-themes/multicolor-tomorrow_night"
+@theme "./themes/rofi-themes/multicolor-nord"
 
