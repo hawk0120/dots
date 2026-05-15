@@ -15,7 +15,7 @@ return require('packer').startup(function(use)
 				'goolord/alpha-nvim',
 				requires = { 'nvim-lua/plenary.nvim' },
 				config = function()
-					require'alpha'.setup(require'alpha.themes.startify'.config)
+					require'alpha'.setup(require'alpha.themes.dashboard'.config)
 				end
 			}
 				use { "rcarriga/nvim-dap-ui", requires = {"mfussenegger/nvim-dap", "nvim-neotest/nvim-nio"} }
