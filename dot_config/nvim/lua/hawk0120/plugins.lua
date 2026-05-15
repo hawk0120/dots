@@ -56,7 +56,7 @@ return require('packer').startup(function(use)
 				}
 
 				use 'nvim-lualine/lualine.nvim'
-				use 'shaunsingh/nord.nvim'
+				use 'catppuccin/nvim'
 				use {'Lommix/ollamachad.nvim', requires = {'MunifTanjim/nui.nvim', 'nvim-lua/plenary.nvim'}}
 				use {'folke/zen-mode.nvim'}
 				use {'iamcco/markdown-preview.nvim', run = 'cd app && npx --yes yarn install' }
