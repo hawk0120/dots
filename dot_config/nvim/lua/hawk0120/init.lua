@@ -16,7 +16,7 @@ vim.opt.termguicolors = true
 require("hawk0120.remap")
 require("hawk0120.plugins")
 
-vim.cmd("colorscheme nord")
+vim.cmd("colorscheme catppuccin")
 
 require'nvim-treesitter.configs'.setup{highlight={enable=true}}
 
