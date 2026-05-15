@@ -1,0 +1,31 @@
+format = "$directory$git_branch$character"
+
+[character]
+success_symbol = "➜ "
+error_symbol = "✗ "
+
+[directory]
+truncation_length = 3
+truncate_to_repo = true
+style = "bold blue"
+
+[git_branch]
+symbol = " "
+style = "bold purple"
+truncation_length = 12
+format = "on [$symbol$branch]($style) "
+
+[git_status]
+disabled = true
+
+[time]
+disabled = true
+
+[aws]
+disabled = true
+
+[kubernetes]
+disabled = true
+
+[memory_usage]
+disabled = true

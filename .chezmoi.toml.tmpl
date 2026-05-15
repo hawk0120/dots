@@ -1,0 +1,13 @@
+{{- $email := promptString "Git email" }}
+{{- $name := promptString "Git username" }}
+
+[data]
+    email = "{{ $email }}"
+    name = "{{ $name }}"
+
+[diff]
+    format = "git"
+    pager = "delta"
+
+[merge]
+    command = "nvim"
