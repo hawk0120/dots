@@ -81,6 +81,7 @@ alias lmpm='sudo brightnessctl s  50'
 # Clear
 alias c='clear'
 
+alias dotfiles='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 
 
 alias gr='gradle run --console=plain --no-daemon'
